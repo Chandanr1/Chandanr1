@@ -9,7 +9,7 @@
 <p align="left">
   <img align="right" src="https://github.com/Chandanr1/Chandanr1/blob/main/avtar2.jpg?raw=true" width="200" style="border-radius:12px;" alt="Chandan Kumar Avatar"/>
 
-## 👋 Hi, I'm Akshat Mittal
+## 👋 Hi, I'm Chandan Kumar
 
 🎓 *UPES | B.Tech CSE | 5th Semester*  
 🚀 Aspiring *Data Scientist* | Passionate about *Python, SQL, and ML*  
